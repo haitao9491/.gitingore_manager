@@ -15,3 +15,6 @@
 **/*.axf
 **/*.dep
 **/*.sct
+**/*.uvgui.*
+**/ipmc.uvopt
+**/ipmc.uvproj
